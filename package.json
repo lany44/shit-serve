@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Scott",
+  "author": "lany44",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.1",
